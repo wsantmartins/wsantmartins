@@ -1,2 +1,2 @@
-Hi! I'm Wilson Martins, a PhD student at the University of Tübingen working on non-equilibrium quantum matter and correlated themes. I'm pretty interested in quantum stuff, such as quantum thermodynamics, many-body quantum physics, and open quantum systems.
+Hallo! I'm currently pursuing my PhD at the University of Tübingen, focusing on quantum thermodynamics of cold atoms, particularly trapped Rydberg ions. My research revolves around non-equilibrium many-body systems, atomic physics and thermodynamics, always in the vista of experimentally reproducible theoretical models. 
 
